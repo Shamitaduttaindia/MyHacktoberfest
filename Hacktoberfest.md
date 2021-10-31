@@ -1,1 +1,1 @@
-Happy Hacktoberfest and Happy Halloween
+Happy Hacktoberfest 2021
